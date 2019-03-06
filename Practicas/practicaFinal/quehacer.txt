@@ -1,0 +1,11 @@
+desarrolla el juego de letras.
+Dado un conjunto de letras aleatorias, encontrar la palabra mas larga y la mejor puntuada dado un diccionario
+
+Montar un diccionario, nos da ya algunos
+Hacer el modulo diccionario (tenemos el esqueleto en una practica anterior), 
+Hacer el modulo de la bolsa de letras, cuenta la cantidad de cada letra del diccionario y tiene de salida un archivo con los datos
+
+Se puede hacer con fuerza bruta o con arboles, ambas se pueden conseguir el 1'5 puntos.
+
+incluir un readme.txt donde se explica que se ha hecho y como se ha hecho, tambien indicar si algo no funciona
+en todos los ficheros debe aparecer el nombre y apellidos, ambos deben subirla.

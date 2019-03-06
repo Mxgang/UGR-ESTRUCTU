@@ -1,0 +1,12 @@
+1900#peli1#peli2#peli3#peli4#
+1999#peli3#peli4#
+1901#peli1#peli2#
+1911#peli3#peli4#
+1922#peli1#peli2#
+1933#peli3#peli4#
+1944#peli1#peli2#
+1955#peli3#peli4#
+1966#peli1#peli2#
+1977#peli3#peli4#
+1988#peli1#peli2#
+2000#peli3#peli4#
